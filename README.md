@@ -11,9 +11,17 @@
 
 **An ultra-responsive, dark-mode landing experience built with precision hairline aesthetics, bespoke scroll physics, and zero external CSS runtime overhead.**
 
-[🌐 Live Production Demo](https://forge-landing-page-pi.vercel.app) • [Key Features](#key-features) • [Architecture](#architecture--design-philosophy) • [Getting Started](#getting-started) • [Project Structure](#project-structure)
+[🚀 Live Demo](https://forge-landing-page-pi.vercel.app) • [Key Features](#key-features) • [Architecture](#architecture--design-philosophy) • [Getting Started](#getting-started) • [Project Structure](#project-structure)
 
 </div>
+
+---
+
+## 🚀 Live Demo
+
+The production application is live and hosted on Vercel:
+
+👉 **[https://forge-landing-page-pi.vercel.app](https://forge-landing-page-pi.vercel.app)**
 
 ---
 

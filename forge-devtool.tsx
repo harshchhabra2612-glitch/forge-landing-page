@@ -182,8 +182,13 @@ function Nav() {
           ))}
         </nav>
         <div className="fd-frg-nav-right">
-          <a className="fd-frg-nav-ghost" href="#top">
-            Docs
+          <a
+            className="fd-frg-nav-ghost"
+            href="https://forge-landing-page-pi.vercel.app"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            Live Demo
           </a>
           <a className="fd-frg-btn fd-frg-btn-sm" href="#pricing">
             Start free
@@ -330,6 +335,14 @@ function Hero() {
         <div className="fd-frg-ctas fd-frg-in" style={{ "--d": "360ms" } as CSSProperties}>
           <a className="fd-frg-btn" href="#pricing">
             Start free <Arrow />
+          </a>
+          <a
+            className="fd-frg-btn fd-frg-btn-ghost"
+            href="https://forge-landing-page-pi.vercel.app"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            Live Demo ↗
           </a>
           <CopyCmd cmd="npx forge init" />
         </div>
@@ -1040,6 +1053,14 @@ function Cta() {
         <div className="fd-frg-ctas">
           <a className="fd-frg-btn" href="#pricing">
             Start free <Arrow />
+          </a>
+          <a
+            className="fd-frg-btn fd-frg-btn-ghost"
+            href="https://forge-landing-page-pi.vercel.app"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            Live Demo ↗
           </a>
           <CopyCmd cmd="npx forge init" />
         </div>

@@ -5,12 +5,13 @@
 [![React](https://img.shields.io/badge/React-18.3.1-61dafb?style=flat-square&logo=react&logoColor=black)](https://react.dev/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.6-3178c6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Vite](https://img.shields.io/badge/Vite-5.4-646cff?style=flat-square&logo=vite&logoColor=white)](https://vitejs.dev/)
+[![Deployment](https://img.shields.io/badge/Vercel-Live_Production-000000?style=flat-square&logo=vercel)](https://forge-landing-page-pi.vercel.app)
 [![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/harshchhabra2612-glitch/forge-landing-page/pulls)
 
 **An ultra-responsive, dark-mode landing experience built with precision hairline aesthetics, bespoke scroll physics, and zero external CSS runtime overhead.**
 
-[Live Demo](#getting-started) • [Key Features](#key-features) • [Architecture](#architecture--design-philosophy) • [Getting Started](#getting-started) • [Project Structure](#project-structure)
+[🌐 Live Production Demo](https://forge-landing-page-pi.vercel.app) • [Key Features](#key-features) • [Architecture](#architecture--design-philosophy) • [Getting Started](#getting-started) • [Project Structure](#project-structure)
 
 </div>
 
